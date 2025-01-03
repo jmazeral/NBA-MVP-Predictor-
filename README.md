@@ -12,4 +12,4 @@ My first shot at machine learning using scikit was a success, hopefully I can ap
 - apply the model to the 2024-25 season (more web scraping so fun)
 - add more predictors to hopefully make the model more accurate
 
-(This project was **heavily** inspired by DataQuest: https://www.youtube.com/watch?v=3cn1nHlbFVw&ab_channel=Dataquest)
+(This project was **heavily** inspired by [DataQuest](https://www.youtube.com/watch?v=3cn1nHlbFVw&ab_channel=Dataquest))
